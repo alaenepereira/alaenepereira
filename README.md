@@ -11,7 +11,7 @@
 <hr/>
 <br/>
 
-- 🔥 backend software developer
+- 🔥 backend software developer training pela [Cubos Academy](https://cubos.academy/)
 
 
 
