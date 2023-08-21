@@ -1,7 +1,11 @@
 ﻿# alaenepereira
 
-<h1 align="left">Hi dear <img  width="30px" height="30px", I'm Alaene pereira</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Laecio12&color=yellow" alt="Profile views" /> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Hi+Dear!!!!;I+am+Alaene+Pereira;Back-end+web+developer.)](https://git.io/typing-svg)
+ </div>
+ 
+<br/>
+<hr/>
+<br/>
 
 - 🔥 backend software developer
 
@@ -45,3 +49,9 @@
 </a>
 
 </p>
+
+</br>
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+ 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
