@@ -36,7 +36,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src=https://github.com/alaenepereira alt="alaene pereira stats"/>
+<img width="530em" src=https://github.com/alaenepereira?tab=repositories alt="alaene pereira stats"/>
 
 
 <br><br>
