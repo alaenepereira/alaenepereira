@@ -65,6 +65,17 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=alaenepereira&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
 
  
+<div align="center">
+ <img  align="right" width= "450px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=alaenepereira&theme=tokyonight&layout=pie" />
+</div>
+
+<div align= "center" >
+ <br/><br/><br/>
+ <img height="203px" width= "450px" align="left"  src="https://github-readme-stats.vercel.app/api?username=alaenepereira&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true" />  
+<img height="203px" width= "450px" align="left" src="https://streak-stats.demolab.com?user=alaenepereira&theme=tokyonight" />
+</div>
+
+ 
 
 ![snake.gif](https://github.com/alaenepereira/alaenepereira/blob/output/github-contribution-grid-snake-dark.svg)
 
