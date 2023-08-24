@@ -61,6 +61,8 @@
 
 </br>
 
+![snake.gif](https://github.com/alaenepereira/alaenepereirai/blob/output/github-contribution-grid-snake-dark.svg)
+
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
