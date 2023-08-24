@@ -61,7 +61,12 @@
 
 </br>
 
-![snake.gif](https://github.com/alaenepereira/alaenepereirai/blob/output/github-contribution-grid-snake-dark.svg)
+<h1 align="center"> Atividade </h1>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=alaenepereira&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
+
+ 
+
+![snake.gif](https://github.com/alaenepereira/alaenepereira/blob/output/github-contribution-grid-snake-dark.svg)
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
  
