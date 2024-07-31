@@ -12,6 +12,7 @@
 <br/>
 
 - 🔥 backend software developer training pela [Cubos Academy](https://cubos.academy/)
+- 🚀 Graduando em Engenharia de Software pela [Estacio de Sá](https://estudante.estacio.br/)
 
 
 
