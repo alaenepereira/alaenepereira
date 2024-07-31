@@ -4,7 +4,7 @@
 
  ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Hi+Dear!!!!;I+am+Alaene+Pereira;Graduando+Engenharia+De+Software+Back-end+web+developer+Mobile+.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Hi+Dear!!!!;I+am+Alaene+Pereira;Graduating+In+Software+Engineering;I+Am+Back-end+web+developer;And+Developer+Mobile.)](https://git.io/typing-svg)
  </div>
  
 <br/>
@@ -12,7 +12,7 @@
 <br/>
 
 - 🔥 backend software developer training pela [Cubos Academy](https://cubos.academy/)
-- 🚀 Graduando em Engenharia de Software pela Universidade [Estacio de Sá](https://estacio.br/)
+- 🚀 Graduating In Software Engineering by the University [Estacio de Sá](https://estacio.br/)
 
 
 
